@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - '**/csu-pueblo/*.md'
 
 jobs:
   build-and-deploy:
@@ -23,6 +24,10 @@ jobs:
         run: |
           mkdir output
           for file in *.md; do
+            pandoc -s -o output/${file%.md}.pdf $file
+            pandoc -s -o output/${file%.md}.docx $file
+          done
+          for file in csu-pueblo/*.md; do
             pandoc -s -o output/${file%.md}.pdf $file
             pandoc -s -o output/${file%.md}.docx $file
           done
