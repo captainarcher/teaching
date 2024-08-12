@@ -20,7 +20,7 @@ Kenneth C. Laudon, Jane P. Laudon. *Management Information Systems - Managing th
 
 ### Credit hours and expected student effort:
 
-** Credit hours: 3 **
+** Credit hours: 3 **  
 
 This is a 3-credit course, offered in accelerated format. This means that 16 weeks of material is covered in 8 weeks. The exact number of hours per week that you can expect to spend on each course will vary based upon the weekly coursework, as well as your study style and preferences. You should plan to spend approximately 10-25 hours per week in each course reading material, interacting on the discussion boards, watching video lectures, writing papers, completing assignments, and doing research.
 
@@ -71,11 +71,5 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 ### Table 2 Course Schedule
 | Module | Required Readings and Practical Exercises | Assignments |
 | ----------- | ----------------------------------------- | -------------|
-| 1 | Information Systems in Global Business Today (Chapter 1), Global E-business and Collaboration (Chapter 2) | 
-- Discussion 1 (40 points)
-- Quiz 1 (15 points) 
-- Quiz 2 (15 points) |
-| 2 | Information Systems, Organizations, and Strategy (Chapter 3), Practical Exercise 1 | 
-- Discussion 2 (40 points)
-- Quiz 3 (15 points)
-- Critical Thinking 1 (40 points) |
+| 1 | Information Systems in Global Business Today (Chapter 1), Global E-business and Collaboration (Chapter 2) | Discussion 1 (40 points), Quiz 1 (15 points), Quiz 2 (15 points) |
+| 2 | Information Systems, Organizations, and Strategy (Chapter 3), Practical Exercise 1 | Discussion 2 (40 points), Quiz 3 (15 points), Critical Thinking 1 (40 points) |
