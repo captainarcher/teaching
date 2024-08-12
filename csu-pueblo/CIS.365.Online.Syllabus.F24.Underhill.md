@@ -73,3 +73,4 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 | ----------- | ----------------------------------------- | -------------|
 | 1 | Information Systems in Global Business Today (Chapter 1), Global E-business and Collaboration (Chapter 2) | Discussion 1 (40 points), Quiz 1 (15 points), Quiz 2 (15 points) |
 | 2 | Information Systems, Organizations, and Strategy (Chapter 3), Practical Exercise 1 | Discussion 2 (40 points), Quiz 3 (15 points), Critical Thinking 1 (40 points) |
+| | |
