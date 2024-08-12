@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - '**/*.md'
-      - '**/csu-pueblo/*.md'
 
 jobs:
   build-and-deploy:
@@ -22,14 +21,13 @@ jobs:
 
       - name: Generate PDF and Word files
         run: |
-          mkdir output
-          for file in *.md; do
-            pandoc -s -o output/${file%.md}.pdf $file
-            pandoc -s -o output/${file%.md}.docx $file
-          done
-          for file in csu-pueblo/*.md; do
-            pandoc -s -o output/${file%.md}.pdf $file
-            pandoc -s -o output/${file%.md}.docx $file
+          mkdir -p output
+          find . -name "*.md" | while read file; do
+            dir=$(dirname "$file")
+            filename=$(basename "$file" .md)
+            mkdir -p "output/$dir"
+            pandoc -s -o "output/${dir}/${filename}.pdf" "$file"
+            pandoc -s -o "output/${dir}/${filename}.docx" "$file"
           done
 
       - name: Deploy files
