@@ -71,11 +71,10 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 ### Optional Synchronous Opportunities (not graded):
 - **This is an asynchronous course with no scheduled meeting times and no live lectures**
 - I will offer the following **optional** synchronous opportunities. These will be recorded. Dates and times are subject to change:
-  - Potential Guest Speaker (Topic: Data/Databases): Week 4: Date/Time TBD
-  - Potential Guest Speaker (Topic: Information Security): Week 5: Date/Time TBD
-  - Product, Engineering, and Technology Operations Careers Discussion: Week 7: Date/Time TBD
-  - General Career Preparation Discussion (Resumes, Interviewing, Interview Prep, Cover Letters, Tools): Week 6: Date/Time TBD
+  - Potential Guest Speakers in Weeks 4 and 5
+  - Careers Discussion in Week 7
   - Biweekly Group Office Hours: Even numbered weeks only - Monday 6:30 p.m. MT to 7:00 p.m. MT.
+  - Group Tutoring: Weeks 3, 5, and 7 only - Monday 6:30 p.m. MT to 7:00 p.m. MT.
 
 ### Instructor's Grading Policy:
 
