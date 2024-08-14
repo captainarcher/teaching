@@ -20,7 +20,7 @@ Kenneth C. Laudon, Jane P. Laudon. *Management Information Systems - Managing th
 
 ### Credit hours and expected student effort:
 
-** Credit hours: 3 **  
+**Credit hours: 3**  
 
 This is a 3-credit course, offered in accelerated format. This means that 16 weeks of material is covered in 8 weeks. The exact number of hours per week that you can expect to spend on each course will vary based upon the weekly coursework, as well as your study style and preferences. You should plan to spend approximately 10-25 hours per week in each course reading material, interacting on the discussion boards, watching video lectures, writing papers, completing assignments, and doing research.
 
