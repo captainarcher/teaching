@@ -81,7 +81,7 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 
 ## Instructor's Grading Policy:
 
-Failure is a tool that enables self-improvement and therefore, I have enacted the following grading policies that are unique to my course and are more generous than standard university policies. These are applicable equally to all students in my course.
+Failure is a tool that enables self-improvement and therefore, I have enacted the following grading policies that are unique to my course. These are applicable equally to all students in my course.
 
 Any student may optionally submit Critical Thinking Assignments and the Final Project early for substantive feedback. The feedback will tell you how to improve your submission before receiving a grade. Early submissions will only receive substantive feedback, not a grade. Grades will only be assigned once after the due date has passed. You are not required to consider or implement my feedback, nor are you required to resubmit your assignment. If you have not resubmitted by the due date, then your original submission will be graded.
 
@@ -91,6 +91,7 @@ Any student may optionally submit Critical Thinking Assignments and the Final Pr
 Life can sometimes throw us curveballs and I am ill-equipped to judge others on the merit of their situations. Therefore, I have enacted the following flexible grading policy for all students.
 
 - Any student may replace your lowest two quiz scores (whether a zero from a missed quiz or just a score that you are unhappy with) by completing up to two makeup assignments. The makeup assignment will consist of completing a hands-on activity and written report. **You must request your makeup assignment(s) at the start of Week 7 and complete them by the end of Week 7. These are NOT automatic.**
+- The Quizzes, Midterm Exam, and Final Project may NOT be submitted late.
 - You may submit Critical Thinking Assignments up to four full days late. The penalties are as follows:
   - by Monday 11:59 p.m. MT = 4 points penalty subtracted from your score
   - by Tuesday 11:59 p.m. MT = 8 points penalty subtracted from your score
