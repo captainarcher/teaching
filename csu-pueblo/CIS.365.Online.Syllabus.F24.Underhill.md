@@ -105,7 +105,7 @@ Life can sometimes throw us curveballs and I am ill-equipped to judge others on 
 | 5 | Foundations of Business Intelligence: Databases and Information Management (Chapter 6), Practical Exercise 2 | Discussion 5 (40 points), Quiz 6 (15 points), Critical Thinking 3 (40 points) |
 | 6 | Telecommunications, The Internet, and Wireless Technology (Chapter 7), Practical Exercise 3 | Discussion 6 (40 points), Quiz 7 (15 points), Critical Thinking 4 (40 points) |
 | 7 | Securing Information Systems (Chapter 8) | Discussion 7 (40 points), Quiz 8 (15 points) |
-| 8 | Managing Knowledge and Artificial Intelligence (Chapter 11) | Discussion 8 (40 points), Quiz 11 (15 points), Final Project (100 points) |
+| 8 | Managing Knowledge and Artificial Intelligence (Chapter 11) | Discussion 8 (40 points), Quiz 11 (15 points), Final Project (285 points) |
 
 ## Important Dates
 See the CSU-Pueblo [Academic Calendar] (https://www.csupueblo.edu/registrar/academic-calendar/index.html)
@@ -118,8 +118,8 @@ See the CSU-Pueblo [Academic Calendar] (https://www.csupueblo.edu/registrar/acad
 | Quizzes | 9 | 15 | 135 |
 | Critical Thinking Assignment | 4 | 40 | 160 |
 | Midterm Exam | 1 | 100 | 100 |
-| Final Project | 1 | 100 | 100 |
-| Total | 815 |
+| Final Project | 1 | 285 | 285 |
+| Total | | | 1000 |
 
 ## Assignment Details
 ### Module 1
@@ -128,4 +128,53 @@ See the CSU-Pueblo [Academic Calendar] (https://www.csupueblo.edu/registrar/acad
 - Respond to at least two classmate's discussion
 - Complete the quiz
 
+### Module 2
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Submit your critical thinking assignment
 
+### Module 3
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Submit your critical thinking assignment
+
+### Module 4
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Complete the midterm examination
+
+### Module 5
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Submit your critical thinking assignment
+- Start your final project
+
+### Module 6
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Submit your critical thinking assignment
+- Work on your final project
+
+### Module 7
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Work on your final project
+
+### Module 8
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+- Complete your final project
