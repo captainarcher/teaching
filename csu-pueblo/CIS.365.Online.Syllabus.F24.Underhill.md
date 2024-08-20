@@ -33,7 +33,7 @@ This is a 3-credit course, offered in accelerated format. This means that 16 wee
 | 3 | Ethical and Social Issues in Information Systems | 5-7 | 5-18 |
 | 4 | IT Infrastructure and Emerging Technologies | 5-7 | 5-18 |
 | 5 | Foundations of Business Intelligence: Databases and Information Management | 5-8 | 5-18 |
-| 6 | Telecommunications, the Internet, and Wireless | | |
+| 6 | Telecommunications, the Internet, and Wireless | 5-7 | 5-18 |
 | 7 | Securing Information Systems | 5-7 | 5-18 |
 | 8 | Managing Knowledge and Artificial Intelligence | 5-7 | 5-18 |  
 
