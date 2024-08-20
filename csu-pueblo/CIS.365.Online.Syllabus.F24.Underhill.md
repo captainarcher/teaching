@@ -1,30 +1,30 @@
 ![alt text](https://www.csupueblo.edu/_global/images/header/csu-pueblo-logo.png "CSU Pueblo Logo")
-## Hasan School of Business
-## Syllabus for CIS 365: Management Information Systems
+# Hasan School of Business
+# Syllabus for CIS 365: Management Information Systems
 
-### Faculty Information
+## Faculty Information
 Faculty contact information is found in Blackboard under the Instructor Information link.
 
-### Course Description:
+## Course Description:
 Introduction to application and management of IT in functional business areas (marketing, finance, accounting, etc.) includes IT strategy, business intelligence, and enterprise information systems. Knowledge of IT and MIS is essential in an increasingly competitive and technological business climate. Being able to identify and use the right technology tools effectively will enhance the career opportunities of students.
 
-### Prerequisites:
+## Prerequisites:
 
 CIS 103, CIS 104, and MGMT 201.
 
-### Required Text(s) and Other Materials:
+## Required Text(s) and Other Materials:
 
 Kenneth C. Laudon, Jane P. Laudon. *Management Information Systems - Managing the Digital Firm*, **17th edition**, Pearson, ISBN-13: 978-0-136-97127-6 (*Note the edition number*)
 
 **NOTE:** All non-textbook required readings and materials necessary to complete assignments, discussions, and/or supplemental or required exercises are provided within the course itself. Please read through each course module carefully.
 
-### Credit hours and expected student effort:
+## Credit hours and expected student effort:
 
 **Credit hours: 3**  
 
 This is a 3-credit course, offered in accelerated format. This means that 16 weeks of material is covered in 8 weeks. The exact number of hours per week that you can expect to spend on each course will vary based upon the weekly coursework, as well as your study style and preferences. You should plan to spend approximately 10-25 hours per week in each course reading material, interacting on the discussion boards, watching video lectures, writing papers, completing assignments, and doing research.
 
-### Table 1 Course Modules  
+## Table 1 Course Modules  
 
 | Module | Module Title | Total Online Hours | Total Offline Hours |
 | ----------- | ----------- | ----------- | ----------- |
@@ -37,17 +37,17 @@ This is a 3-credit course, offered in accelerated format. This means that 16 wee
 | 7 | Securing Information Systems | 5-7 | 5-18 |
 | 8 | Managing Knowledge and Artificial Intelligence | 5-7 | 5-18 |  
 
-### Drop and Withdrawal Dates
+## Drop and Withdrawal Dates
 Drop and Withdrawal Dates are available via the Online Programs calendar: [Calendar & Tuition | CSU Pueblo Online | CSU-Pueblo] (https://www.csupueblo.edu/online/calendar-and-tuition.html)
 
 Anyone wanting to withdraw from this course may do so on or before the University designated withdrawal date. You are encouraged to visit the university web site to determine specific dates. Anyone receiving financial aid should contact the Financial Aid office to determine the impact on their financial aid award.
 
-### Course Overview  
+## Course Overview  
 
 This course will help students gain the background they need to assess, evaluate, and apply emerging information systems and information technologies to business.
 
 
-### Course Learning Outcomes: 
+## Course Learning Outcomes: 
 The following learning objectives are the desired outcome for this course and will be evaluated at the completion of this class. After completing this class you should be able to:
 1. Explain why information systems are essential to business.
 2. Illustrate how information systems can give business competitive advantage.
@@ -58,7 +58,7 @@ The following learning objectives are the desired outcome for this course and wi
 7. Explain how to organize and use data using database management systems
 8. Explain how business intelligence systems are used in various domains.
 
-### Online Course Structure and Schedule: 
+## Online Course Structure and Schedule: 
 
 The Academic week of this course begins on Monday and ends the following Sunday.
 
@@ -68,15 +68,15 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 - Midterm Examination: Due by Sunday at 11:59 p.m. MT.
 - Final Project: Due by Sunday at 11:59 p.m. MT.
 
-### Optional Synchronous Opportunities (not graded):
+## Optional Synchronous Opportunities (not graded):
 - **This is an asynchronous course with no scheduled meeting times and no live lectures**
-- I will offer the following **optional** synchronous opportunities. These will be recorded. Dates and times are subject to change:
+- I will offer the following **optional** synchronous opportunities. These are **not required, do not introduce new material, and are primarily for enriching your future career opportunities as well as providing small group assistance with course assignments.** These will be recorded. Dates and times are subject to change:
   - Potential Guest Speakers in Weeks 4 and 5
   - Careers Discussion in Week 7
-  - Biweekly Group Office Hours: Even numbered weeks only - Monday 6:30 p.m. MT to 7:00 p.m. MT.
-  - Group Tutoring: Weeks 3, 5, and 7 only - Monday 6:30 p.m. MT to 7:00 p.m. MT.
+  - Biweekly Group Office Hours: Weeks 2, 4, 6, and 8 - Monday 6:30 p.m. MT to 7:00 p.m. MT.
+  - Group Tutoring: Weeks 3, 5, and 7 - Monday 6:30 p.m. MT to 7:00 p.m. MT.
 
-### Instructor's Grading Policy:
+## Instructor's Grading Policy:
 
 Failure is a tool that enables self-improvement and therefore, I have enacted the following grading policies that are unique to my course and are more generous than standard university policies. These are applicable equally to all students in my course.
 
@@ -87,7 +87,7 @@ Any student may optionally submit Critical Thinking Assignments and the Final Pr
 
 Life can sometimes throw us curveballs and I am ill-equipped to judge others on the merit of their situations. Therefore, I have enacted the following flexible grading policy for all students.
 
-- Any student may replace your lowest two quiz scores (whether a zero from a missed quiz or just a score that you are unhappy with) by completing up to two makeup assignments. The makeup assignment will consist of completing a hands-on activity and written report. ** You must request your makeup assignment(s) at the start of Week 7 and complete them by the end of Week 7. **
+- Any student may replace your lowest two quiz scores (whether a zero from a missed quiz or just a score that you are unhappy with) by completing up to two makeup assignments. The makeup assignment will consist of completing a hands-on activity and written report. **You must request your makeup assignment(s) at the start of Week 7 and complete them by the end of Week 7. These are NOT automatic.**
 - You may submit Critical Thinking Assignments up to four full days late. The penalties are as follows:
   - by Monday 11:59 p.m. MT = 4 points penalty subtracted from your score
   - by Tuesday 11:59 p.m. MT = 8 points penalty subtracted from your score
@@ -95,9 +95,37 @@ Life can sometimes throw us curveballs and I am ill-equipped to judge others on 
   - by Thursday 11:59 p.m. MT = 20 points penalty subtracted from your score
   - No assignments will be accepted after Thursday 11:59 p.m. MT
 
-### Table 2 Course Schedule
+## Table 2 Course Schedule
 | Module | Required Readings and Practical Exercises | Assignments |
 | ----------- | ----------------------------------------- | -------------|
 | 1 | Information Systems in Global Business Today (Chapter 1), Global E-business and Collaboration (Chapter 2) | Discussion 1 (40 points), Quiz 1 (15 points), Quiz 2 (15 points) |
 | 2 | Information Systems, Organizations, and Strategy (Chapter 3), Practical Exercise 1 | Discussion 2 (40 points), Quiz 3 (15 points), Critical Thinking 1 (40 points) |
-| | |
+| 3 | Ethical and Social Issues in Information Systems (Chapter 4) | Discussion 3 (40 points), Quiz 4 (15 points), Critical Thinking 2 (40 points) |
+| 4 | IT Infrastructure and Emerging Technologies (Chapter 5) | Discussion 4 (40 points), Quiz 5 (15 points), Midterm Examination (100 points) |
+| 5 | Foundations of Business Intelligence: Databases and Information Management (Chapter 6), Practical Exercise 2 | Discussion 5 (40 points), Quiz 6 (15 points), Critical Thinking 3 (40 points) |
+| 6 | Telecommunications, The Internet, and Wireless Technology (Chapter 7), Practical Exercise 3 | Discussion 6 (40 points), Quiz 7 (15 points), Critical Thinking 4 (40 points) |
+| 7 | Securing Information Systems (Chapter 8) | Discussion 7 (40 points), Quiz 8 (15 points) |
+| 8 | Managing Knowledge and Artificial Intelligence (Chapter 11) | Discussion 8 (40 points), Quiz 11 (15 points), Final Project (100 points) |
+
+## Important Dates
+See the CSU-Pueblo [Academic Calendar] (https://www.csupueblo.edu/registrar/academic-calendar/index.html)
+
+## Coursework Requirements:
+## Table 3: Coursework Breakdown
+| Assignment | Number | Points Each | Total |
+| ----------- | ----------- | ----------- | ----------- |
+| Discussions | 8 | 40 | 320 |
+| Quizzes | 9 | 15 | 135 |
+| Critical Thinking Assignment | 4 | 40 | 160 |
+| Midterm Exam | 1 | 100 | 100 |
+| Final Project | 1 | 100 | 100 |
+| Total | 815 |
+
+## Assignment Details
+### Module 1
+- Read the chapter/PowerPoint slides
+- Post your discussion
+- Respond to at least two classmate's discussion
+- Complete the quiz
+
+
