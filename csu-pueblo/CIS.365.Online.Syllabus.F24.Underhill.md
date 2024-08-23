@@ -70,8 +70,8 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 
 ## Optional Synchronous Opportunities (not graded):
 - **This is an asynchronous course with no scheduled meeting times and no live lectures**
-- I will offer the following **optional** synchronous opportunities. These are **not required, do not introduce new material, and are primarily for enriching your future career opportunities as well as providing small group assistance with course assignments.** These will be recorded. Dates and times are subject to change:
-  - Potential Guest Speaker in Week 4
+- I will offer the following **optional** synchronous enrichment opportunities. These are **not required, ungraded, do not introduce new material, and are primarily for enriching your future career opportunities as well as providing small group assistance with course assignments.** These will be recorded. Dates and times are subject to change:
+  - Potential Virtual Fireside Chat with a panel of Tech Business Leaders in mid-November
   - Careers Discussion in Week 7
   - Biweekly Group Office Hours:
   -   Week 2 - Monday 6:30 p.m. MT to 7:00 p.m. MT.
@@ -85,8 +85,8 @@ Failure is a tool that enables self-improvement and therefore, I have enacted th
 
 Any student may optionally submit Critical Thinking Assignments and the Final Project early for substantive feedback. The feedback will tell you how to improve your submission before receiving a grade. Early submissions will only receive substantive feedback, not a grade. Grades will only be assigned once after the due date has passed. You are not required to consider or implement my feedback, nor are you required to resubmit your assignment. If you have not resubmitted by the due date, then your original submission will be graded.
 
-- Critical Thinking Assignments must be submitted by Wednesday at 11:59 p.m. MT of the week prior to the due date to receive feedback. Your final submission must be made by the due date.
-- The Final project must be submitted by Monday at 11:59p.m. of the week prior to the due date to receive feedback. Your final submission must be made by the due date.
+- Critical Thinking Assignments must be submitted by Wednesday at 11:59 p.m. MT of the week prior to the due date to receive feedback. Your final submission must be made by the due date. Example: if the assignment is due Sunday, August 25th at 11:59 p.m. MT, then it must be submitted by Wednesday, August 21st at 11:59 p.m. MT to receive early feedback.
+- The Final project must be submitted by Monday at 11:59p.m. of the week prior to the due date to receive feedback. Your final submission must be made by the due date. Example: if the assignment is due Sunday, August 25th at 11:59 p.m. MT, then it must be submitted by Monday, August 19th at 11:59 p.m. MT to receive early feedback.
 
 Life can sometimes throw us curveballs and I am ill-equipped to judge others on the merit of their situations. Therefore, I have enacted the following flexible grading policy for all students.
 
@@ -159,7 +159,7 @@ See the CSU-Pueblo [Academic Calendar] (https://www.csupueblo.edu/registrar/acad
 - Respond to at least two classmate's discussion
 - Complete the quiz
 - Submit your critical thinking assignment
-- Start your final project
+- Final project details are posted
 
 ### Module 6
 - Read the chapter/PowerPoint slides
