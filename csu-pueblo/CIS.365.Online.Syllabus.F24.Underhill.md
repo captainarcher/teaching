@@ -71,11 +71,10 @@ The Academic week of this course begins on Monday and ends the following Sunday.
 ## Optional Synchronous Opportunities (not graded):
 - **This is an asynchronous course with no scheduled meeting times and no live lectures**
 - I will offer the following **optional** synchronous opportunities. These are **not required, do not introduce new material, and are primarily for enriching your future career opportunities as well as providing small group assistance with course assignments.** These will be recorded. Dates and times are subject to change:
-  - Potential Guest Speaker in Week 4
-  - Careers Discussion in Week 7
+  - Technology in Business Panel in Week 4
   - Monthly Group Office Hours:
-  -   Week 4 - Tuesday 8:30 p.m. MT to 9:00 p.m. MT.
-  -   Week 8 - Tuesday 6:30 p.m. MT to 7:00 p.m. MT.
+  -   Week 3 - Tuesday 8:30 p.m. MT to 9:00 p.m. MT.
+  -   Week 6 - Tuesday 6:30 p.m. MT to 7:00 p.m. MT.
 
 ## Table 2 Course Schedule
 | Module | Required Readings and Practical Exercises | Assignments |
