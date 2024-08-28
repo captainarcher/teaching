@@ -5,6 +5,8 @@
 ## Faculty Information
 Faculty contact information is found in Blackboard under the Instructor Information link.
 
+Dr. Underhill is an engineering leader for Amazon Web Services (AWS) in Denver. Prior to joining AWS, he was a senior leader at F5 NGINX, VMware, Oracle, and HashiCorp. He has also worked for various technology startups and was a founder of his own AI startup. Dr. Underhill previously taught at the University of California, California State University, and the University System of Maryland.   
+
 ## Course Description:
 Introduction to application and management of IT in functional business areas (marketing, finance, accounting, etc.) includes IT strategy, business intelligence, and enterprise information systems. Knowledge of IT and MIS is essential in an increasingly competitive and technological business climate. Being able to identify and use the right technology tools effectively will enhance the career opportunities of students.
 
